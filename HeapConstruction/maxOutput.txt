@@ -1,0 +1,2 @@
+34 19 24 9 7 1 21 3 2 4 
+Execution time: 4.19e-07seconds
