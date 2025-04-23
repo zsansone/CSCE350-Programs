@@ -40,7 +40,7 @@ int main() {
     input >> n;
 
     std::vector<int> heap(n+1); // Create heap array
-    for (int i = 1; i <= n+1; i++) {
+    for (int i = 1; i <= n; i++) {
         input >> heap[i]; // Put elements in heap
     }
 
