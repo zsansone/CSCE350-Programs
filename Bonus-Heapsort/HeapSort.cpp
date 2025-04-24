@@ -61,7 +61,7 @@ int main() {
     }
     
     output << "heapsort: ";
-    for(int i = 1; i <= n; i++) {
+    for(int i = n; i >= 1; i--) {
         output << heap[i] << " "; // Output sorted array
     }
     output << std::endl;
