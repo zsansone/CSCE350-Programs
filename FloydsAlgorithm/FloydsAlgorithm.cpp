@@ -36,7 +36,6 @@ int main() {
         for (int j = 0; j < nodes; j++) {
             std::string temp;
             input >> temp;
-            output << temp << " ";
             if(temp == "I") {
                 distance[i][j] = std::numeric_limits<float>::infinity();
             } else {
