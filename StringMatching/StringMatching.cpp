@@ -1,6 +1,6 @@
 // CSCE350 Zachary Sansone
 // Horspool's String Matching Algorithm
-// Reads pattern and text (assumed correct format) from input.txt
+// Reads pattern and text from input.txt
 // Writes index of first match (or -1) and execution time to output.txt
 
 #include <fstream>
