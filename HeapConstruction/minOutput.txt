@@ -1,2 +1,0 @@
-1 2 21 3 7 34 24 4 9 19 
-Execution time: 3.98e-07seconds
